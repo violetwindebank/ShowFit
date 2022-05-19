@@ -1,0 +1,22 @@
+{
+  "name": "iamhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^7.19.5",
+    "codeceptjs": "^3.3.3",
+    "webdriverio": "^6.12.1"
+  },
+  "dependencies": {
+    "codeceptjs-chai": "^2.3.2",
+    "codeceptjs-testmailapp-helper": "^1.1.0",
+    "codeceptjs-webdriverio": "^1.1.0"
+  }
+}
